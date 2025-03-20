@@ -1,0 +1,42 @@
+.home-container {
+  min-height: 100vh;
+  background: linear-gradient(45deg, #e6f4f1 0%, #ffe8e1 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-card {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 520px;
+}
+
+h2 {
+  text-align: center;
+  color: #2d7065;
+  margin-bottom: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.user-info {
+  padding: 1.2rem;
+  border: 2px dashed #d9ece8;
+  border-radius: 6px;
+  background: #f9fbfa;
+}
+
+p {
+  margin: 1rem 0;
+  color: #5a948a;
+  font-size: 1.1rem;
+  font-family: Arial, sans-serif;
+}
+
+p span {
+  color: #7cc7bc;
+  font-weight: 600;
+}
