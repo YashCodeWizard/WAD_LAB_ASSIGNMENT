@@ -1,0 +1,42 @@
+.sidebar {
+    min-height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.stat-card {
+    transition: transform 0.2s;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        min-height: auto;
+    }
+    
+    .carousel-item img {
+        height: 200px;
+    }
+}
