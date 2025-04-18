@@ -1,5 +1,5 @@
 # WAD ASSIGNMENT
-This repository contains all the Web Application Development (WAD) assignments completed as part of my college coursework. It includes a variety of front-end and back-end projects developed using HTML, CSS, JavaScript, and Node.js with Express.
+This repository contains all the Web Application Development (WAD) assignments completed as part of my college Labwork.
 
 🛠 Technologies Used
 HTML5
