@@ -14,13 +14,13 @@ Tech	Description
 📦 How to Install Node Modules
 To get started with the backend and run this project locally:
 
-# Step 1: Clone the repository
+Step 1: Clone the repository
 git clone https://github.com/your-username/wad-assignment.git
 
-# Step 2: Navigate into the project folder
+Step 2: Navigate into the project folder
 cd wad-assignment
 
-# Step 3: Install dependencies
+Step 3: Install dependencies
 npm install
 
 You're all set to start developing! 🎉
