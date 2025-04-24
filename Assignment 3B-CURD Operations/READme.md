@@ -35,7 +35,7 @@ A simple RESTful API built using **Express.js** and **MongoDB** to manage studen
 
 ### 📦 Install Dependencies
 ```bash
-npm install
+npm install express
 ```
 
 ---
@@ -54,3 +54,4 @@ node index.js
 ```
 
 Server runs at: [http://localhost:3000]
+
