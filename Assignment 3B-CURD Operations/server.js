@@ -7,7 +7,7 @@ const app=express();
 app.use(bodyParser.json());
 
 
-mongoose.connect('mongodb+srv://kbtug22338:d20VdoQJUb5WzwPF@cluster0.clwrloq.mongodb.net/Students')
+mongoose.connect('Enter your mongo string here')
     .then(() => {
         console.log('Connected to MongoDB');
     })
